@@ -1,4 +1,4 @@
-Dockerized budget app 8)
+Dockerized budget app 
 
 
 
